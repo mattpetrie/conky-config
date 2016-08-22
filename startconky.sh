@@ -1,3 +1,3 @@
 #! /bin/bash
 sleep 20
-conky -c ~/.conky/.conkyrc
+conky -c $HOME/.conky/.conkyrc
